@@ -1,4 +1,5 @@
 **ECO-DAM: A Sustainable Water Management Prototype**
+
 Welcome to the repository for the ECO-DAM project, a gravity dam prototype designed to address water scarcity in Egypt. This project was developed during the 2023/2024 academic year at Gharbiya STEM High School.
 
 **Project Highlights**
