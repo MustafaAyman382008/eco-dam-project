@@ -16,9 +16,9 @@ This project was a collaborative effort with contributions from:
 - Mohammed Naeem
   
 **Explore More**
-- Project Portfolio. check out at:
-- Poster. check out at:
-- Demo. check out at:
+- Project Portfolio. check out at: https://github.com/MustafaAyman382008/eco-dam-project/blob/main/Portfolio.pdf.pdf
+- Project Poster. check out at: https://github.com/MustafaAyman382008/eco-dam-project/blob/main/poster.pdf.pdf
+- Project Demo. check out at: https://github.com/MustafaAyman382008/eco-dam-project/blob/main/Project_Demo.pdf
 
 **Contact**
 For any questions or insights about the project, feel free to reach out via GitHub or connect with us on LinkedIn at: https://www.linkedin.com/in/mustafa-kashar-3475b62a7
