@@ -12,7 +12,7 @@ This project was a collaborative effort with contributions from:
 - Mustafa Kashar
 - Marwan Alghrably
 - Mamdouh Hassan
-- Yousef Attia
+- Youssef Attia
 - Mohammed Naeem
   
 **Explore More**
